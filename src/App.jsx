@@ -3,9 +3,9 @@ import { useState } from "react";
 const pages = [
   {
     eyebrow: "Welcome",
-    title: "Hey Not a prospect!",
+    title: "Hey Medh❤️",
     body:
-      "This little website is only for you, because I know I hurt your feelings and I want to make it right in the sweetest way I can. If you stay with me for a minute, I want to tell you what my heart should have said better.",
+      "This little website is only for you, because I know I hurt your feelings and I wanted to say sorry properly. No drama, no pressure, just me trying to explain myself better and make you smile a little",
     button: "Read My Apology",
     scene: "intro",
   },
@@ -21,7 +21,7 @@ const pages = [
     eyebrow: "Page 2",
     title: "What I actually meant",
     body:
-      "The past is only a memory. It happened, but it does not define what matters now. You are my present, and the one who matters to me in this moment. My heart is with you now, and I should have made that crystal clear. With you, everything feels less like confusion and more like a happy Gokuldham moment.",
+      "The past is only a memory. It happened, but it does not define what matters now. You are my present, and the one who matters to me in this moment. My heart is with you now, and I should have made that crystal clear. With you, I smile and overthink but its with you, it's more like a Splitsvilla on it's own.",
     button: "Next",
     scene: "promise",
   },
@@ -34,7 +34,7 @@ const pages = [
       "You get mad, but jaldi maan bhi jaati ho, and that little sweetness melts me.",
       "I can roast you, you roast me back, and somehow that makes us even more fun together.",
       "Your sense of humor is completely crack, and that full chaos is exactly why I like being with you so much.",
-      "I like you for all the little things that make you, you. I like you for being you, and I want to be with you because of that.",
+      "I like the little things that make you, you. No heavy promises, just honestly: I like you, and I like what we are becoming.",
     ],
     button: "One More Thing",
     scene: "reasons",
