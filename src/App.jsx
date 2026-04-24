@@ -276,7 +276,7 @@ export default function App() {
               className="primary-button"
               onClick={() => setPageIndex(0)}
             >
-              Read Again
+              Smile, coz you are amazing!
             </button>
           )}
         </div>
