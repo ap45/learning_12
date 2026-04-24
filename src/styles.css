@@ -610,6 +610,20 @@ h1 {
   color: #9b4969;
 }
 
+.song-link {
+  display: inline-flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 14px;
+  color: #b55a79;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.song-link:hover {
+  text-decoration: underline;
+}
+
 .video-wrap {
   position: relative;
   overflow: hidden;

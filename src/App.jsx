@@ -233,12 +233,21 @@ export default function App() {
             <p className="song-label">{page.songTitle}</p>
             <div className="video-wrap">
               <iframe
-                src="https://www.youtube.com/embed/mt9xg0mmt28?autoplay=1&rel=0"
+                src="https://www.youtube-nocookie.com/embed/mt9xg0mmt28?autoplay=1&rel=0&playsinline=1"
                 title="A song for you"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                referrerPolicy="strict-origin-when-cross-origin"
                 allowFullScreen
               />
             </div>
+            <a
+              className="song-link"
+              href="https://www.youtube.com/watch?v=mt9xg0mmt28"
+              target="_blank"
+              rel="noreferrer"
+            >
+              If the player does not load, tap here to open the song on YouTube
+            </a>
           </div>
         ) : null}
 
